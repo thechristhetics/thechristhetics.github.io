@@ -7443,6 +7443,7 @@ h1, h2, h3, h4, h5,
     font-weight: 400;
     position: relative; }
     #colorlib-main-nav .logo:after {
+      display:none;
       position: absolute;
       top: -3px;
       left: -7px;
@@ -7454,6 +7455,7 @@ h1, h2, h3, h4, h5,
       border-right: 1px solid transparent;
       z-index: -1; }
     #colorlib-main-nav .logo:before {
+      display:none;
       position: absolute;
       top: -3px;
       right: -6px;
